@@ -1,4 +1,4 @@
-package com.codegym.springcustomermanagementrestful2;
+package com.codegym;
 
 import java.io.*;
 import javax.servlet.http.*;
